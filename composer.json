@@ -3,7 +3,7 @@
     "description": "PHP layered architecture example (Controller → Service → Repository → DB)",
     "type": "project",
     "autoload": {
-        "psr-4": {
+        "p": {
             "App\\": "src/",
             "Config\\": "config/"
         }
